@@ -79,8 +79,6 @@
 ## 🏆 Competitive Programming
 
 - 🔹 Codeforces: https://codeforces.com/profile/Bhushan450
-- 🔹 LeetCode: *Add your profile link here*
-
 ---
 
 <h3 align="center">

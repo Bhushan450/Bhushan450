@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhushan</h1>
 
-<h3 align="center">Backend Developer • MERN Stack Enthusiast • Competitive Programmer</h3>
+<h3 align="center">Backend Developer • MERN Stack Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhushan450&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
